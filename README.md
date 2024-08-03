@@ -1,5 +1,5 @@
 # AutoHotkey
-### 편리한 개발자 키보드 설정법
+### 🎮 편리한 개발자 키보드 설정법
 1. AutoHotkey 설치 -> https://www.autohotkey.com/
 2. 설치 후 바탕화면에서 [우클릭] → [새로만들기]로 가서 AutoHotkey Script를 선택, 바탕화면에 파일 생성.
 3. 그 파일에서 [우클릭] → [Edit Script] 혹은 [연결프로그램] → [다른 앱 선택] 로 원하는 편집기 선택.
