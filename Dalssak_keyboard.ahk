@@ -1,4 +1,9 @@
-﻿; <CapsLock키 기본적으로 꺼두기>
+; By Dalssak
+; github: https://github.com/j1sung
+; Tistory: https://jisung-rithm.tistory.com/
+; [개발자를 위한 키보드 설정]
+
+; <CapsLock키 기본적으로 꺼두기>
 SetCapsLockState, AlwaysOff
 ;___________________________
 
